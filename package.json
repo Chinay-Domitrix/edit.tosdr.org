@@ -2,6 +2,6 @@
   "name": "phoenix",
   "private": true,
   "dependencies": {
-    "xpath-to-css": "^1.1.0"
+    "xpath-to-css": "^1.2.0"
   }
 }
